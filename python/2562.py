@@ -5,4 +5,4 @@ for i in range(9):
     number.append(a)
 
 print(max(number))
-print(min(number))
+print(number.index(max(number))+1)
