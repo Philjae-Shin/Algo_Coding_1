@@ -6,7 +6,7 @@ for _ in range(28):
 
 # print(min(students))
 # print(max(students))
-print(students)
+
 
 for student in students:
     print(student)
