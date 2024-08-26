@@ -11,5 +11,3 @@ for _ in range(m):
     baskets[i-1:j] = reversed(baskets[i-1:j])
 
 print(" ".join(map(str, baskets)))
-
-
