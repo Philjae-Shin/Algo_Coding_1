@@ -12,4 +12,5 @@ c = "abcdefghijklmnopqrstuvwxyz"
 S = input()
 
 for x in c:
+    # find(x): print index of x when x appear in S(input)
     print(S.find(x), end=' ')
