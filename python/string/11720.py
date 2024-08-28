@@ -1,5 +1,5 @@
 n = input()
 
-numbers = list(map(int, input()))
+numb = list(map(int, input()))
 
-print(sum(numbers))
+print(sum(numb))
